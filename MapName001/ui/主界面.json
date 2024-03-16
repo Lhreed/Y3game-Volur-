@@ -1,0 +1,580 @@
+{
+    "adapt_mode": 2, 
+    "children": [
+        {
+            "adapter_option": [
+                true, 
+                true, 
+                true, 
+                true, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "anchor": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "children": [
+                {
+                    "adapter_option": [
+                        true, 
+                        true, 
+                        true, 
+                        true, 
+                        0.0, 
+                        0.0, 
+                        0.0, 
+                        0.0
+                    ], 
+                    "children": [], 
+                    "event_list": [], 
+                    "image": 131227, 
+                    "name": "image_1", 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            960.0, 
+                            540.0
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1920.0, 
+                            1080.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "5937a28f-d320-4478-b36c-7ab5acf3a82f"
+                }, 
+                {
+                    "adapter_option": [
+                        true, 
+                        false, 
+                        false, 
+                        false, 
+                        738.0, 
+                        251.0, 
+                        821.0, 
+                        818.0
+                    ], 
+                    "children": [
+                        {
+                            "alignment": {
+                                "__tuple__": true, 
+                                "items": [
+                                    2, 
+                                    8
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [
+                                {
+                                    "action_list": [
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 5, 
+                                            "comp": "d91dcff9-4fd8-4227-a21c-8989089a3ac4", 
+                                            "ease_type": 0, 
+                                            "name": "Show_5", 
+                                            "open_timeline": true, 
+                                            "type": 2
+                                        }
+                                    ], 
+                                    "enabled": true, 
+                                    "name": "label_2_0", 
+                                    "sound_id": null, 
+                                    "type": 24
+                                }
+                            ], 
+                            "font": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "HKWeiBeiW7", 
+                                    36
+                                ]
+                            }, 
+                            "font_color": {
+                                "__tuple__": true, 
+                                "items": [
+                                    242, 
+                                    156, 
+                                    80, 
+                                    255
+                                ]
+                            }, 
+                            "name": "exit", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    139.0, 
+                                    46.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    49.46619217081851, 
+                                    50.54945054945055
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    280.0, 
+                                    91.0
+                                ]
+                            }, 
+                            "text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "Exit", 
+                                    false
+                                ]
+                            }, 
+                            "type": 3, 
+                            "uid": "d91dcff9-4fd8-4227-a21c-8989089a3ac4"
+                        }
+                    ], 
+                    "event_list": [
+                        {
+                            "action_list": [
+                                {
+                                    "anim_duration": 1.0, 
+                                    "anim_id": null, 
+                                    "anim_type": 7, 
+                                    "comp": "e1637673-442c-457c-b371-bc30c1cc92ff", 
+                                    "ease_type": 0, 
+                                    "name": "Show_3", 
+                                    "open_timeline": true, 
+                                    "type": 2
+                                }
+                            ], 
+                            "enabled": true, 
+                            "name": "\u9000\u51fa_0", 
+                            "sound_id": null, 
+                            "type": 2
+                        }
+                    ], 
+                    "name": "\u9000\u51fa", 
+                    "normal_picture": 108171, 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            961.5, 
+                            296.5
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.07812499999999, 
+                            27.453703703703702
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            281.0, 
+                            91.0
+                        ]
+                    }, 
+                    "type": 1, 
+                    "uid": "e1637673-442c-457c-b371-bc30c1cc92ff"
+                }, 
+                {
+                    "adapter_option": [
+                        true, 
+                        false, 
+                        false, 
+                        false, 
+                        630.0, 
+                        359.0, 
+                        821.0, 
+                        818.0
+                    ], 
+                    "children": [
+                        {
+                            "alignment": {
+                                "__tuple__": true, 
+                                "items": [
+                                    2, 
+                                    8
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [
+                                {
+                                    "action_list": [
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 5, 
+                                            "comp": "83267ded-6315-4b35-b4e6-233f5672e39a", 
+                                            "ease_type": 0, 
+                                            "name": "Show_6", 
+                                            "open_timeline": true, 
+                                            "type": 2
+                                        }
+                                    ], 
+                                    "enabled": true, 
+                                    "name": "label_2_0", 
+                                    "sound_id": null, 
+                                    "type": 24
+                                }
+                            ], 
+                            "font": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "HKWeiBeiW7", 
+                                    36
+                                ]
+                            }, 
+                            "font_color": {
+                                "__tuple__": true, 
+                                "items": [
+                                    242, 
+                                    156, 
+                                    80, 
+                                    255
+                                ]
+                            }, 
+                            "name": "label_2", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    141.0, 
+                                    46.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.177935943060504, 
+                                    50.54945054945055
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    280.0, 
+                                    91.0
+                                ]
+                            }, 
+                            "text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "Continue", 
+                                    false
+                                ]
+                            }, 
+                            "type": 3, 
+                            "uid": "83267ded-6315-4b35-b4e6-233f5672e39a"
+                        }
+                    ], 
+                    "event_list": [
+                        {
+                            "action_list": [
+                                {
+                                    "anim_duration": 1.0, 
+                                    "anim_id": null, 
+                                    "anim_type": 7, 
+                                    "comp": "68c64067-e180-4827-89f0-f68f542803fc", 
+                                    "ease_type": 0, 
+                                    "name": "Show_2", 
+                                    "open_timeline": true, 
+                                    "type": 2
+                                }
+                            ], 
+                            "enabled": true, 
+                            "name": "\u7ee7\u7eed_0", 
+                            "sound_id": null, 
+                            "type": 2
+                        }
+                    ], 
+                    "name": "\u7ee7\u7eed", 
+                    "normal_picture": 108171, 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            961.5, 
+                            404.5
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.07812499999999, 
+                            37.4537037037037
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            281.0, 
+                            91.0
+                        ]
+                    }, 
+                    "type": 1, 
+                    "uid": "68c64067-e180-4827-89f0-f68f542803fc"
+                }, 
+                {
+                    "adapter_option": [
+                        true, 
+                        false, 
+                        false, 
+                        false, 
+                        522.0, 
+                        467.0, 
+                        821.0, 
+                        818.0
+                    ], 
+                    "children": [
+                        {
+                            "alignment": {
+                                "__tuple__": true, 
+                                "items": [
+                                    2, 
+                                    8
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [
+                                {
+                                    "action_list": [
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 5, 
+                                            "comp": "c3c4f6e7-030f-41b7-a92f-80331b63a3b3", 
+                                            "ease_type": 0, 
+                                            "name": "Show_4", 
+                                            "open_timeline": true, 
+                                            "type": 2
+                                        }
+                                    ], 
+                                    "enabled": true, 
+                                    "name": "label_2_0", 
+                                    "sound_id": null, 
+                                    "type": 24
+                                }
+                            ], 
+                            "font": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "HKWeiBeiW7", 
+                                    36
+                                ]
+                            }, 
+                            "font_color": {
+                                "__tuple__": true, 
+                                "items": [
+                                    242, 
+                                    156, 
+                                    80, 
+                                    255
+                                ]
+                            }, 
+                            "name": "label_2", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    141.0, 
+                                    46.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.177935943060504, 
+                                    50.54945054945055
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    280.0, 
+                                    91.0
+                                ]
+                            }, 
+                            "text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "Start", 
+                                    false
+                                ]
+                            }, 
+                            "type": 3, 
+                            "uid": "c3c4f6e7-030f-41b7-a92f-80331b63a3b3"
+                        }
+                    ], 
+                    "event_list": [
+                        {
+                            "action_list": [
+                                {
+                                    "anim_duration": 1.0, 
+                                    "anim_id": null, 
+                                    "anim_type": 7, 
+                                    "comp": "aa4215df-d782-46cc-bd63-1d9cff0a61e6", 
+                                    "ease_type": 0, 
+                                    "name": "Show_1", 
+                                    "open_timeline": true, 
+                                    "type": 2
+                                }
+                            ], 
+                            "enabled": true, 
+                            "name": "\u5f00\u59cb_0", 
+                            "sound_id": null, 
+                            "type": 2
+                        }
+                    ], 
+                    "name": "\u5f00\u59cb", 
+                    "normal_picture": 108171, 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            961.5, 
+                            512.5
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.07812499999999, 
+                            47.4537037037037
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            281.0, 
+                            91.0
+                        ]
+                    }, 
+                    "type": 1, 
+                    "uid": "aa4215df-d782-46cc-bd63-1d9cff0a61e6"
+                }, 
+                {
+                    "adapter_option": [
+                        true, 
+                        false, 
+                        false, 
+                        false, 
+                        225.0, 
+                        690.0, 
+                        718.0, 
+                        714.0
+                    ], 
+                    "alignment": {
+                        "__tuple__": true, 
+                        "items": [
+                            2, 
+                            8
+                        ]
+                    }, 
+                    "bold": true, 
+                    "children": [], 
+                    "event_list": [], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "HKXinZongYiW9", 
+                            150
+                        ]
+                    }, 
+                    "font_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            217, 
+                            4, 
+                            22, 
+                            255
+                        ]
+                    }, 
+                    "label_effect": {
+                        "__tuple__": true, 
+                        "items": [
+                            true, 
+                            false, 
+                            true, 
+                            true
+                        ]
+                    }, 
+                    "name": "label_1", 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            962.0, 
+                            772.5
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.10416666666667, 
+                            71.52777777777779
+                        ]
+                    }, 
+                    "shadow": true, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            488.0, 
+                            165.0
+                        ]
+                    }, 
+                    "text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "Volur", 
+                            false
+                        ]
+                    }, 
+                    "type": 3, 
+                    "uid": "6ffa1f50-378b-4e2d-97f2-41bb41811d84", 
+                    "under_line": true
+                }
+            ], 
+            "event_list": [], 
+            "name": "layout_1", 
+            "open_adapter": true, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
+            "swallow_touches": true, 
+            "type": 7, 
+            "uid": "c5a2350b-649a-4af1-a3ee-0137f7669aa4"
+        }
+    ], 
+    "name": "\u4e3b\u754c\u9762", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [
+        2
+    ], 
+    "uid": "panel_1", 
+    "visible": true, 
+    "zorder": 400
+}

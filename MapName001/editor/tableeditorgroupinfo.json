@@ -1,0 +1,44 @@
+[
+ {
+  "__tuple__": true, 
+  "items": [
+   "3fdf8e6c-7015-49eb-9ffb-85011d603856", 
+   "talk"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   "04d7efb3-0ca8-452e-8d6f-d953975d9042", 
+   "choose"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   "15bae32b-169c-4a99-b471-d09b09580b70", 
+   "config2"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   "a637247a-2451-43a1-83ee-ffa8721e5e43", 
+   "\u9b54\u6cd5\u8868"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   "575adb01-c82e-4c66-8488-2925145c3654", 
+   "\u6536\u96c6\u8868"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   "a3f4d5e5-fa5b-4eca-b358-1810ebebf6cd", 
+   "\u9009\u4eba"
+  ]
+ }
+]

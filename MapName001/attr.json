@@ -1,0 +1,217 @@
+{
+    "b": [], 
+    "c": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "ohRNnoxhEe6pFAJQsTNVnS", 
+                {
+                    "default": 0.0, 
+                    "desc": "angle", 
+                    "desc_bit": 1, 
+                    "key": "ohRNnoxhEe6pFAJQsTNVnS", 
+                    "maximun": 360.0, 
+                    "minimun": 0.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "qTTzAIxhEe6tTwJQsTNVnT", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u91d1", 
+                    "desc_bit": 1, 
+                    "key": "qTTzAIxhEe6tTwJQsTNVnT", 
+                    "maximun": 10000.0, 
+                    "minimun": 0.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "qWCW3oxhEe6mOgJQsTNVnV", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u6728", 
+                    "desc_bit": 1, 
+                    "key": "qWCW3oxhEe6mOgJQsTNVnV", 
+                    "maximun": 10000.0, 
+                    "minimun": 0.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "qYfN8IxhEe6O1gJQsTNVna", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u6c34", 
+                    "desc_bit": 1, 
+                    "key": "qYfN8IxhEe6O1gJQsTNVna", 
+                    "maximun": 10000.0, 
+                    "minimun": 0.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "qcUlEYxhEe6qJQJQsTNVnd", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u706b", 
+                    "desc_bit": 1, 
+                    "key": "qcUlEYxhEe6qJQJQsTNVnd", 
+                    "maximun": 10000.0, 
+                    "minimun": 0.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "GDNfsI2uEe6JqgJQsTNVnf", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u571f", 
+                    "desc_bit": 1, 
+                    "key": "GDNfsI2uEe6JqgJQsTNVnf", 
+                    "maximun": 10000.0, 
+                    "minimun": 0.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "wEmwMI32Ee6DogJQsTNVnf", 
+                {
+                    "default": 10.0, 
+                    "desc": "\u6700\u5927\u91d1", 
+                    "desc_bit": 1, 
+                    "key": "wEmwMI32Ee6DogJQsTNVnf", 
+                    "maximun": 10000.0, 
+                    "minimun": 1.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "2WWbD432Ee60dwJQsTNVnX", 
+                {
+                    "default": 10.0, 
+                    "desc": "\u6700\u5927\u6728", 
+                    "desc_bit": 1, 
+                    "key": "2WWbD432Ee60dwJQsTNVnX", 
+                    "maximun": 10000.0, 
+                    "minimun": 1.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "3GznoY32Ee6ViAJQsTNVnS", 
+                {
+                    "default": 10.0, 
+                    "desc": "\u6700\u5927\u6c34", 
+                    "desc_bit": 1, 
+                    "key": "3GznoY32Ee6ViAJQsTNVnS", 
+                    "maximun": 10000.0, 
+                    "minimun": 1.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "349dT432Ee6AfwJQsTNVnQ", 
+                {
+                    "default": 10.0, 
+                    "desc": "\u6700\u5927\u706b", 
+                    "desc_bit": 1, 
+                    "key": "349dT432Ee6AfwJQsTNVnQ", 
+                    "maximun": 10000.0, 
+                    "minimun": 1.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "4lLqHo32Ee6+QgJQsTNVnZ", 
+                {
+                    "default": 10.0, 
+                    "desc": "\u6700\u5927\u571f", 
+                    "desc_bit": 1, 
+                    "key": "4lLqHo32Ee6+QgJQsTNVnZ", 
+                    "maximun": 10000.0, 
+                    "minimun": 1.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }
+    ], 
+    "p": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "strength", 
+                {
+                    "d": "\u529b\u91cf", 
+                    "k": "strength", 
+                    "m": []
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "agility", 
+                {
+                    "d": "\u654f\u6377", 
+                    "k": "agility", 
+                    "m": []
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "intelligence", 
+                {
+                    "d": "\u667a\u529b", 
+                    "k": "intelligence", 
+                    "m": []
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "main", 
+                {
+                    "d": "\u4e3b\u5c5e\u6027", 
+                    "k": "main", 
+                    "m": []
+                }
+            ]
+        }
+    ], 
+    "ps": 1
+}

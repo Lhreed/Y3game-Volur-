@@ -1,0 +1,137 @@
+{
+    "design_resolution": {
+        "__tuple__": true, 
+        "items": [
+            1920, 
+            1080
+        ]
+    }, 
+    "design_resolution_index": 0, 
+    "first_init_ui_editor": true, 
+    "prefab_data": {
+        "f0e84bcd-5329-497b-97e9-726f5c71cfa4": {
+            "data": {
+                "children": [
+                    {
+                        "adapter_option": [
+                            false, 
+                            false, 
+                            false, 
+                            false, 
+                            null, 
+                            null, 
+                            null, 
+                            null
+                        ], 
+                        "children": [
+                            {
+                                "adapter_option": [
+                                    true, 
+                                    true, 
+                                    true, 
+                                    true, 
+                                    0.0, 
+                                    0.0, 
+                                    0.0, 
+                                    0.0
+                                ], 
+                                "children": [], 
+                                "event_list": [], 
+                                "image": 120833, 
+                                "name": "equip_bg_img", 
+                                "pos": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        50.0, 
+                                        50.0
+                                    ]
+                                }, 
+                                "size": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        100.0, 
+                                        100.0
+                                    ]
+                                }, 
+                                "type": 4
+                            }, 
+                            {
+                                "children": [], 
+                                "event_list": [], 
+                                "image": 101902, 
+                                "name": "equip_icon_img", 
+                                "pos": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        50.0, 
+                                        50.0
+                                    ]
+                                }, 
+                                "size": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        100.0, 
+                                        100.0
+                                    ]
+                                }, 
+                                "type": 4
+                            }, 
+                            {
+                                "children": [], 
+                                "event_list": [], 
+                                "image": 100427, 
+                                "name": "equip_disabled_img", 
+                                "pos": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        50.0, 
+                                        50.0
+                                    ]
+                                }, 
+                                "size": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        100.0, 
+                                        100.0
+                                    ]
+                                }, 
+                                "type": 4
+                            }
+                        ], 
+                        "equip_bg_img": "781a8ea2-c77f-44a6-9f04-df95d9b65f70", 
+                        "equip_cd_progress": "default", 
+                        "equip_charge_label": "default", 
+                        "equip_disabled_img": "0ec24dcd-f539-4fef-b0ed-bc53358e7c20", 
+                        "equip_icon_img": "acc781ee-5aed-430d-9793-37dcc9684fa8", 
+                        "equip_stack_label": "default", 
+                        "event_list": [], 
+                        "name": "equip_slot_1", 
+                        "pos": {
+                            "__tuple__": true, 
+                            "items": [
+                                50.0, 
+                                50.0
+                            ]
+                        }, 
+                        "type": 20
+                    }
+                ], 
+                "custom_kv": {}, 
+                "event_list": [], 
+                "name": "layout_1", 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        960.0, 
+                        540.0
+                    ]
+                }, 
+                "prefab_key": "f0e84bcd-5329-497b-97e9-726f5c71cfa4", 
+                "type": 7
+            }, 
+            "name": "\u80cc\u5305"
+        }
+    }, 
+    "ui_template_id": null, 
+    "uid_version": true
+}

@@ -1,0 +1,704 @@
+{
+ "editor_unit": {
+  "f": [
+   {
+    "__tuple__": true, 
+    "items": [
+     "", 
+     0, 
+     2147483647, 
+     "code_explorer_custom_root_folder_name"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "/2147483647", 
+     0, 
+     "TiwMHpEeEe6o7wJQsTNVnQ", 
+     "\u8d44\u6e90"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "/2147483647", 
+     1, 
+     "OkB3Lo0fEe6uUAJQsTNVnY", 
+     "enemy"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "/2147483647", 
+     2, 
+     "-exNUYwjEe6ToAJQsTNVnc", 
+     "\u5efa\u7b51"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "/2147483647", 
+     3, 
+     "Bce3MIwkEe6tbQJQsTNVnc", 
+     "character"
+    ]
+   }
+  ], 
+  "d": {
+   "134239353": {
+    "__tuple__": true, 
+    "items": [
+     "TiwMHpEeEe6o7wJQsTNVnQ", 
+     0
+    ]
+   }, 
+   "134262336": {
+    "__tuple__": true, 
+    "items": [
+     "TiwMHpEeEe6o7wJQsTNVnQ", 
+     1
+    ]
+   }, 
+   "134272342": {
+    "__tuple__": true, 
+    "items": [
+     "TiwMHpEeEe6o7wJQsTNVnQ", 
+     2
+    ]
+   }, 
+   "134244914": {
+    "__tuple__": true, 
+    "items": [
+     "TiwMHpEeEe6o7wJQsTNVnQ", 
+     3
+    ]
+   }, 
+   "134273116": {
+    "__tuple__": true, 
+    "items": [
+     "TiwMHpEeEe6o7wJQsTNVnQ", 
+     4
+    ]
+   }, 
+   "134264351": {
+    "__tuple__": true, 
+    "items": [
+     "OkB3Lo0fEe6uUAJQsTNVnY", 
+     0
+    ]
+   }, 
+   "134257197": {
+    "__tuple__": true, 
+    "items": [
+     "OkB3Lo0fEe6uUAJQsTNVnY", 
+     1
+    ]
+   }, 
+   "134241293": {
+    "__tuple__": true, 
+    "items": [
+     "OkB3Lo0fEe6uUAJQsTNVnY", 
+     2
+    ]
+   }, 
+   "134269230": {
+    "__tuple__": true, 
+    "items": [
+     "-exNUYwjEe6ToAJQsTNVnc", 
+     0
+    ]
+   }, 
+   "134279029": {
+    "__tuple__": true, 
+    "items": [
+     "-exNUYwjEe6ToAJQsTNVnc", 
+     1
+    ]
+   }, 
+   "134247261": {
+    "__tuple__": true, 
+    "items": [
+     "-exNUYwjEe6ToAJQsTNVnc", 
+     2
+    ]
+   }, 
+   "134272879": {
+    "__tuple__": true, 
+    "items": [
+     "-exNUYwjEe6ToAJQsTNVnc", 
+     3
+    ]
+   }, 
+   "134266848": {
+    "__tuple__": true, 
+    "items": [
+     "Bce3MIwkEe6tbQJQsTNVnc", 
+     0
+    ]
+   }, 
+   "134233400": {
+    "__tuple__": true, 
+    "items": [
+     "Bce3MIwkEe6tbQJQsTNVnc", 
+     1
+    ]
+   }, 
+   "134230217": {
+    "__tuple__": true, 
+    "items": [
+     "Bce3MIwkEe6tbQJQsTNVnc", 
+     2
+    ]
+   }, 
+   "134232435": {
+    "__tuple__": true, 
+    "items": [
+     "Bce3MIwkEe6tbQJQsTNVnc", 
+     3
+    ]
+   }
+  }
+ }, 
+ "editor_decoration": {
+  "f": [
+   {
+    "__tuple__": true, 
+    "items": [
+     "", 
+     0, 
+     2147483647, 
+     "code_explorer_custom_root_folder_name"
+    ]
+   }
+  ], 
+  "d": {}
+ }, 
+ "ability_all": {
+  "f": [
+   {
+    "__tuple__": true, 
+    "items": [
+     "", 
+     0, 
+     2147483647, 
+     "code_explorer_custom_root_folder_name"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "/2147483647", 
+     0, 
+     "jv6JgI6oEe6TOAJQsTNVnQ", 
+     "boss"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "/2147483647", 
+     1, 
+     "PTfPMIxkEe6mFgJQsTNVnf", 
+     "p1"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "/2147483647", 
+     2, 
+     "QzUDMIxkEe6urAJQsTNVnV", 
+     "p2"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "/2147483647", 
+     3, 
+     "T-x-MIxkEe6QcQJQsTNVnZ", 
+     "p3"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "/2147483647", 
+     4, 
+     "ahO6AIxkEe6ragJQsTNVnT", 
+     "p4"
+    ]
+   }
+  ], 
+  "d": {
+   "134247015": {
+    "__tuple__": true, 
+    "items": [
+     "jv6JgI6oEe6TOAJQsTNVnQ", 
+     0
+    ]
+   }, 
+   "134269242": {
+    "__tuple__": true, 
+    "items": [
+     "jv6JgI6oEe6TOAJQsTNVnQ", 
+     1
+    ]
+   }, 
+   "134228433": {
+    "__tuple__": true, 
+    "items": [
+     "jv6JgI6oEe6TOAJQsTNVnQ", 
+     2
+    ]
+   }, 
+   "134241572": {
+    "__tuple__": true, 
+    "items": [
+     "jv6JgI6oEe6TOAJQsTNVnQ", 
+     3
+    ]
+   }, 
+   "134272436": {
+    "__tuple__": true, 
+    "items": [
+     "PTfPMIxkEe6mFgJQsTNVnf", 
+     0
+    ]
+   }, 
+   "134247348": {
+    "__tuple__": true, 
+    "items": [
+     "PTfPMIxkEe6mFgJQsTNVnf", 
+     1
+    ]
+   }, 
+   "134242339": {
+    "__tuple__": true, 
+    "items": [
+     "PTfPMIxkEe6mFgJQsTNVnf", 
+     2
+    ]
+   }, 
+   "134254588": {
+    "__tuple__": true, 
+    "items": [
+     "PTfPMIxkEe6mFgJQsTNVnf", 
+     3
+    ]
+   }, 
+   "134255114": {
+    "__tuple__": true, 
+    "items": [
+     "QzUDMIxkEe6urAJQsTNVnV", 
+     0
+    ]
+   }, 
+   "134252164": {
+    "__tuple__": true, 
+    "items": [
+     "QzUDMIxkEe6urAJQsTNVnV", 
+     1
+    ]
+   }, 
+   "134246700": {
+    "__tuple__": true, 
+    "items": [
+     "QzUDMIxkEe6urAJQsTNVnV", 
+     2
+    ]
+   }, 
+   "134250792": {
+    "__tuple__": true, 
+    "items": [
+     "QzUDMIxkEe6urAJQsTNVnV", 
+     3
+    ]
+   }, 
+   "134218436": {
+    "__tuple__": true, 
+    "items": [
+     "T-x-MIxkEe6QcQJQsTNVnZ", 
+     0
+    ]
+   }, 
+   "134268297": {
+    "__tuple__": true, 
+    "items": [
+     "T-x-MIxkEe6QcQJQsTNVnZ", 
+     1
+    ]
+   }, 
+   "134249126": {
+    "__tuple__": true, 
+    "items": [
+     "T-x-MIxkEe6QcQJQsTNVnZ", 
+     2
+    ]
+   }, 
+   "134235547": {
+    "__tuple__": true, 
+    "items": [
+     "T-x-MIxkEe6QcQJQsTNVnZ", 
+     3
+    ]
+   }, 
+   "134244798": {
+    "__tuple__": true, 
+    "items": [
+     "ahO6AIxkEe6ragJQsTNVnT", 
+     0
+    ]
+   }, 
+   "134225832": {
+    "__tuple__": true, 
+    "items": [
+     "ahO6AIxkEe6ragJQsTNVnT", 
+     1
+    ]
+   }, 
+   "134255539": {
+    "__tuple__": true, 
+    "items": [
+     "ahO6AIxkEe6ragJQsTNVnT", 
+     2
+    ]
+   }, 
+   "134242596": {
+    "__tuple__": true, 
+    "items": [
+     "ahO6AIxkEe6ragJQsTNVnT", 
+     3
+    ]
+   }
+  }
+ }, 
+ "modifier_all": {
+  "f": [
+   {
+    "__tuple__": true, 
+    "items": [
+     "", 
+     0, 
+     2147483647, 
+     "code_explorer_custom_root_folder_name"
+    ]
+   }
+  ], 
+  "d": {
+   "134245948": {
+    "__tuple__": true, 
+    "items": [
+     2147483647, 
+     0
+    ]
+   }
+  }
+ }, 
+ "projectile_all": {
+  "f": [
+   {
+    "__tuple__": true, 
+    "items": [
+     "", 
+     0, 
+     2147483647, 
+     "code_explorer_custom_root_folder_name"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "/2147483647", 
+     0, 
+     "j304D4rGEe6tiQJQsTNVnd", 
+     "tmp"
+    ]
+   }
+  ], 
+  "d": {
+   "134221809": {
+    "__tuple__": true, 
+    "items": [
+     "j304D4rGEe6tiQJQsTNVnd", 
+     0
+    ]
+   }, 
+   "134249150": {
+    "__tuple__": true, 
+    "items": [
+     2147483647, 
+     1
+    ]
+   }, 
+   "134241544": {
+    "__tuple__": true, 
+    "items": [
+     2147483647, 
+     2
+    ]
+   }, 
+   "134270499": {
+    "__tuple__": true, 
+    "items": [
+     2147483647, 
+     3
+    ]
+   }, 
+   "134222255": {
+    "__tuple__": true, 
+    "items": [
+     2147483647, 
+     4
+    ]
+   }
+  }
+ }, 
+ "technology_all": {
+  "f": [
+   {
+    "__tuple__": true, 
+    "items": [
+     "", 
+     0, 
+     2147483647, 
+     "code_explorer_custom_root_folder_name"
+    ]
+   }
+  ], 
+  "d": {}
+ }, 
+ "store_all": {
+  "f": [
+   {
+    "__tuple__": true, 
+    "items": [
+     "", 
+     0, 
+     2147483647, 
+     "code_explorer_custom_root_folder_name"
+    ]
+   }
+  ], 
+  "d": {}
+ }, 
+ "editor_item": {
+  "f": [
+   {
+    "__tuple__": true, 
+    "items": [
+     "", 
+     0, 
+     2147483647, 
+     "code_explorer_custom_root_folder_name"
+    ]
+   }
+  ], 
+  "d": {}
+ }, 
+ "editor_destructible": {
+  "f": [
+   {
+    "__tuple__": true, 
+    "items": [
+     "", 
+     0, 
+     2147483647, 
+     "code_explorer_custom_root_folder_name"
+    ]
+   }
+  ], 
+  "d": {
+   "134243700": {
+    "__tuple__": true, 
+    "items": [
+     2147483647, 
+     0
+    ]
+   }, 
+   "134254747": {
+    "__tuple__": true, 
+    "items": [
+     2147483647, 
+     1
+    ]
+   }, 
+   "134258569": {
+    "__tuple__": true, 
+    "items": [
+     2147483647, 
+     2
+    ]
+   }
+  }
+ }, 
+ "sound_all": {
+  "f": [
+   {
+    "__tuple__": true, 
+    "items": [
+     "", 
+     0, 
+     2147483647, 
+     "code_explorer_custom_root_folder_name"
+    ]
+   }
+  ], 
+  "d": {
+   "134237706": {
+    "__tuple__": true, 
+    "items": [
+     2147483647, 
+     0
+    ]
+   }
+  }
+ }, 
+ "editor_deco_group": {
+  "f": [], 
+  "d": {}
+ }, 
+ "editor_model": {
+  "f": [
+   {
+    "__tuple__": true, 
+    "items": [
+     "", 
+     0, 
+     2147483647, 
+     "code_explorer_custom_root_folder_name"
+    ]
+   }
+  ], 
+  "d": {}
+ }, 
+ "editor_icon": {
+  "f": [
+   {
+    "__tuple__": true, 
+    "items": [
+     "", 
+     0, 
+     2147483647, 
+     "code_explorer_custom_root_folder_name"
+    ]
+   }
+  ], 
+  "d": {}
+ }, 
+ "editor_sound": {
+  "f": [
+   {
+    "__tuple__": true, 
+    "items": [
+     "", 
+     0, 
+     2147483647, 
+     "code_explorer_custom_root_folder_name"
+    ]
+   }
+  ], 
+  "d": {}
+ }, 
+ "editor_effect": {
+  "f": [
+   {
+    "__tuple__": true, 
+    "items": [
+     "", 
+     0, 
+     2147483647, 
+     "code_explorer_custom_root_folder_name"
+    ]
+   }
+  ], 
+  "d": {}
+ }, 
+ "editor_cur": {
+  "f": [
+   {
+    "__tuple__": true, 
+    "items": [
+     "", 
+     0, 
+     2147483647, 
+     "code_explorer_custom_root_folder_name"
+    ]
+   }
+  ], 
+  "d": {}
+ }, 
+ "editor_sky_box": {
+  "f": [
+   {
+    "__tuple__": true, 
+    "items": [
+     "", 
+     0, 
+     2147483647, 
+     "code_explorer_custom_root_folder_name"
+    ]
+   }
+  ], 
+  "d": {}
+ }, 
+ "editor_font": {
+  "f": [
+   {
+    "__tuple__": true, 
+    "items": [
+     "", 
+     0, 
+     2147483647, 
+     "code_explorer_custom_root_folder_name"
+    ]
+   }
+  ], 
+  "d": {}
+ }, 
+ "editor_terrain_texture": {
+  "f": [
+   {
+    "__tuple__": true, 
+    "items": [
+     "", 
+     0, 
+     2147483647, 
+     "code_explorer_custom_root_folder_name"
+    ]
+   }
+  ], 
+  "d": {}
+ }, 
+ "editor_sequence": {
+  "f": [
+   {
+    "__tuple__": true, 
+    "items": [
+     "", 
+     0, 
+     2147483647, 
+     "code_explorer_custom_root_folder_name"
+    ]
+   }
+  ], 
+  "d": {}
+ }, 
+ "res_sequence": {
+  "f": [
+   {
+    "__tuple__": true, 
+    "items": [
+     "", 
+     0, 
+     2147483647, 
+     "code_explorer_custom_root_folder_name"
+    ]
+   }
+  ], 
+  "d": {}
+ }
+}

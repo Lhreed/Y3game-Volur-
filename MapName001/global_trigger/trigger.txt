@@ -1,0 +1,84 @@
+{
+    "group": [], 
+    "key": -1, 
+    "key_order": {
+        "0FoRD42zEe6HUwJQsTNVnf": 17, 
+        "3+G+gI2zEe6nDgJQsTNVnX": 20, 
+        "58OIwIw5Ee6a-gJQsTNVnb": 15, 
+        "RJj2QIwzEe6edAJQsTNVnR": 14, 
+        "SU1GkY9UEe6-8gJQsTNVnW": 18, 
+        "X3tT8I0dEe6aGAJQsTNVnS": 16, 
+        "ZaU4AIkREe6UZQJQsTNVnV": 3, 
+        "iV1tT5EbEe647QJQsTNVnZ": 12, 
+        "njRLgIzpEe6GfAJQsTNVnU": 6, 
+        "pJkXz4whEe63TwJQsTNVnX": 2, 
+        "pQ0sAI62Ee6x9AJQsTNVnf": 13, 
+        "rVoOT42jEe649wJQsTNVnT": 19
+    }, 
+    "name": "trigger", 
+    "sub_trigger": {
+        "0": {
+            "__tuple__": true, 
+            "items": [
+                1487040513, 
+                "playerInit"
+            ]
+        }, 
+        "1": {
+            "__tuple__": true, 
+            "items": [
+                724164610, 
+                "template"
+            ]
+        }, 
+        "4": {
+            "__tuple__": true, 
+            "items": [
+                1966825477, 
+                "\u5237\u65b0"
+            ]
+        }, 
+        "5": {
+            "__tuple__": true, 
+            "items": [
+                1295339539, 
+                "\u9000\u51fa\u6e38\u620f"
+            ]
+        }, 
+        "7": {
+            "__tuple__": true, 
+            "items": [
+                1553395757, 
+                "\u5b50\u89e6\u53d1\u5668"
+            ]
+        }, 
+        "8": {
+            "__tuple__": true, 
+            "items": [
+                2041057326, 
+                "\u5b50\u89e6\u53d1\u5668_2"
+            ]
+        }, 
+        "9": {
+            "__tuple__": true, 
+            "items": [
+                27803695, 
+                "\u5b50\u89e6\u53d1\u5668_3"
+            ]
+        }, 
+        "10": {
+            "__tuple__": true, 
+            "items": [
+                1755865136, 
+                "\u5b50\u89e6\u53d1\u5668_4"
+            ]
+        }, 
+        "11": {
+            "__tuple__": true, 
+            "items": [
+                615022641, 
+                "\u5b50\u89e6\u53d1\u5668_5"
+            ]
+        }
+    }
+}

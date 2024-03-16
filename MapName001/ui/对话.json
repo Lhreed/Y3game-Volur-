@@ -1,0 +1,166 @@
+{
+    "adapt_mode": 2, 
+    "children": [
+        {
+            "adapter_option": [
+                true, 
+                true, 
+                true, 
+                true, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "anchor": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "children": [
+                {
+                    "adapter_option": [
+                        false, 
+                        true, 
+                        true, 
+                        true, 
+                        682.0, 
+                        74.0, 
+                        158.0, 
+                        162.0
+                    ], 
+                    "children": [
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "font": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "MSYH", 
+                                    27
+                                ]
+                            }, 
+                            "name": "label_7", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    800.0, 
+                                    162.0
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1262.9999694824219, 
+                                    177.0
+                                ]
+                            }, 
+                            "text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "djfhgijldfhguidrhuigr0hetuigewgdfzujigjueigsduiv ghsdiugvh fduihdsuhsfoghdfifoghssioghdsiogvdfgifijdgiorujgidsjidsojdsijdsoijdsdiojdsipjdspjdsdidsuigvhdsuoghdfoigjiogjrewriewopewirewipeoiropewriopewrpoiropewriopewiroepwiropewiropewiropewirpoewr", 
+                                    false
+                                ]
+                            }, 
+                            "type": 3, 
+                            "uid": "ad0f0172-70bc-4c3d-afce-870ff19c16ed"
+                        }
+                    ], 
+                    "event_list": [
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "talk_under", 
+                            "sound_id": null, 
+                            "type": 2
+                        }
+                    ], 
+                    "image": 133099, 
+                    "name": "image_12", 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            958.0, 
+                            236.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            49.895833333333336, 
+                            21.85185185185185
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1600.0, 
+                            324.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "a42bea89-495a-472d-881c-daaf0cced721"
+                }, 
+                {
+                    "children": [], 
+                    "event_list": [], 
+                    "image": 133099, 
+                    "name": "image_11", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            959.999755859375, 
+                            771.9998779296875
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            49.999987284342446, 
+                            71.48147017867477
+                        ]
+                    }, 
+                    "rotation": 180.0, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1604.0000610351562, 
+                            410.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "ffb4c723-081f-4650-9fb0-73e6dedf74a9"
+                }
+            ], 
+            "event_list": [], 
+            "name": "layout_6", 
+            "open_adapter": true, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "97eb7d10-7dfb-4348-83b0-5073d7338503"
+        }
+    ], 
+    "name": "\u5bf9\u8bdd", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "25a2db91-1c24-44ff-9e6d-2c431489eec7", 
+    "visible": true, 
+    "zorder": 400
+}

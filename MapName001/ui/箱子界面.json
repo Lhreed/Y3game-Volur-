@@ -1,0 +1,1129 @@
+{
+    "adapt_mode": 2, 
+    "children": [
+        {
+            "adapter_option": [
+                true, 
+                true, 
+                true, 
+                true, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "anchor": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "children": [
+                {
+                    "children": [
+                        {
+                            "alignment": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1, 
+                                    0
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "name": "label_5", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    953.0, 
+                                    265.5
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    79.68227424749163, 
+                                    35.685483870967744
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    388.0, 
+                                    363.0
+                                ]
+                            }, 
+                            "type": 3, 
+                            "uid": "eb410851-cd0a-4c44-9916-1721d721cb46"
+                        }, 
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "name": "image_10", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    953.0, 
+                                    526.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    79.68227424749163, 
+                                    70.6989247311828
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    100.0, 
+                                    100.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "76ad3c13-7a89-4ab2-bcc6-e81539f77784"
+                        }, 
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "name": "button_1", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    836.0, 
+                                    38.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    69.89966555183946, 
+                                    5.10752688172043
+                                ]
+                            }, 
+                            "type": 1, 
+                            "uid": "4048471c-88ca-4566-a3e2-ea923514460a"
+                        }, 
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "name": "button_3", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1070.0, 
+                                    38.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    89.4648829431438, 
+                                    5.10752688172043
+                                ]
+                            }, 
+                            "type": 1, 
+                            "uid": "a52cd1be-016b-4744-bc65-d525a2a31562"
+                        }, 
+                        {
+                            "adapter_option": [
+                                false, 
+                                false, 
+                                false, 
+                                false, 
+                                null, 
+                                null, 
+                                null, 
+                                null
+                            ], 
+                            "children": [
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 120833, 
+                                    "name": "equip_bg_img", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            50.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            100.0, 
+                                            100.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "021f3106-aff6-40d6-9b3b-3db0469b495e"
+                                }, 
+                                {
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 101902, 
+                                    "name": "equip_icon_img", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            50.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            100.0, 
+                                            100.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "7c8a4f34-2a3f-43c4-a504-2e63392d5263"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null
+                                    ], 
+                                    "alignment": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            2, 
+                                            0
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "name": "equip_stack_label", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            66.0, 
+                                            18.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            66.0, 
+                                            18.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            55.462188720703125, 
+                                            24.0
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "1", 
+                                            false
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "uid": "e4c1f915-5523-4c12-a224-95d28fd303cd"
+                                }, 
+                                {
+                                    "alignment": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            2, 
+                                            0
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "name": "equip_charge_label", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            66.0, 
+                                            18.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            66.0, 
+                                            18.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            55.462188720703125, 
+                                            24.0
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "1", 
+                                            false
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "uid": "33f61275-a195-41c4-a685-b92b40d631f6"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "bg_color": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            255, 
+                                            255, 
+                                            255, 
+                                            0
+                                        ]
+                                    }, 
+                                    "bg_image": null, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 903687, 
+                                    "name": "equip_cd_progress", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            50.0
+                                        ]
+                                    }, 
+                                    "progress_type": 0, 
+                                    "reverse": true, 
+                                    "scale": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            1.6, 
+                                            1.6
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            62.5, 
+                                            62.5
+                                        ]
+                                    }, 
+                                    "type": 5, 
+                                    "uid": "9a97cc6a-0adc-430f-973a-dbad922bd056"
+                                }, 
+                                {
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 100427, 
+                                    "name": "equip_disabled_img", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            50.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            100.0, 
+                                            100.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "03cf6b72-47aa-4966-83f3-cc18af127afc"
+                                }
+                            ], 
+                            "equip_bg_img": "021f3106-aff6-40d6-9b3b-3db0469b495e", 
+                            "equip_cd_progress": "9a97cc6a-0adc-430f-973a-dbad922bd056", 
+                            "equip_charge_label": "33f61275-a195-41c4-a685-b92b40d631f6", 
+                            "equip_disabled_img": "03cf6b72-47aa-4966-83f3-cc18af127afc", 
+                            "equip_icon_img": "7c8a4f34-2a3f-43c4-a504-2e63392d5263", 
+                            "equip_stack_label": "e4c1f915-5523-4c12-a224-95d28fd303cd", 
+                            "event_list": [], 
+                            "name": "equip_slot_1", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    92.0, 
+                                    535.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    7.6923076923076925, 
+                                    71.90860215053763
+                                ]
+                            }, 
+                            "type": 20, 
+                            "uid": "75419934-1758-403c-9b11-734cee8d12ef"
+                        }, 
+                        {
+                            "adapter_option": [
+                                false, 
+                                false, 
+                                false, 
+                                false, 
+                                null, 
+                                null, 
+                                null, 
+                                null
+                            ], 
+                            "children": [
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 120833, 
+                                    "name": "equip_bg_img", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            50.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            100.0, 
+                                            100.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "915611f5-6cdc-4e00-9a8c-55979974dc27"
+                                }, 
+                                {
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 101902, 
+                                    "name": "equip_icon_img", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            50.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            100.0, 
+                                            100.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "350e1abf-0a2f-4b8d-8cdb-b8601cd27fb9"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null
+                                    ], 
+                                    "alignment": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            2, 
+                                            0
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "name": "equip_stack_label", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            66.0, 
+                                            18.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            66.0, 
+                                            18.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            55.462188720703125, 
+                                            24.0
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "1", 
+                                            false
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "uid": "5eebd79d-7f12-49f6-8f0f-6686a3f839db"
+                                }, 
+                                {
+                                    "alignment": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            2, 
+                                            0
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "name": "equip_charge_label", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            66.0, 
+                                            18.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            66.0, 
+                                            18.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            55.462188720703125, 
+                                            24.0
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "1", 
+                                            false
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "uid": "7589bbde-a249-4eba-a2e5-461bcbd5d876"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "bg_color": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            255, 
+                                            255, 
+                                            255, 
+                                            0
+                                        ]
+                                    }, 
+                                    "bg_image": null, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 903687, 
+                                    "name": "equip_cd_progress", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            50.0
+                                        ]
+                                    }, 
+                                    "progress_type": 0, 
+                                    "reverse": true, 
+                                    "scale": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            1.6, 
+                                            1.6
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            62.5, 
+                                            62.5
+                                        ]
+                                    }, 
+                                    "type": 5, 
+                                    "uid": "9aa91370-15e8-4806-9733-89eec7ee1e05"
+                                }, 
+                                {
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 100427, 
+                                    "name": "equip_disabled_img", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            50.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            100.0, 
+                                            100.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "e2c0735f-24dc-4140-ba8f-f6a707bd84f9"
+                                }
+                            ], 
+                            "equip_bg_img": "915611f5-6cdc-4e00-9a8c-55979974dc27", 
+                            "equip_cd_progress": "9aa91370-15e8-4806-9733-89eec7ee1e05", 
+                            "equip_charge_label": "7589bbde-a249-4eba-a2e5-461bcbd5d876", 
+                            "equip_disabled_img": "e2c0735f-24dc-4140-ba8f-f6a707bd84f9", 
+                            "equip_icon_img": "350e1abf-0a2f-4b8d-8cdb-b8601cd27fb9", 
+                            "equip_stack_label": "5eebd79d-7f12-49f6-8f0f-6686a3f839db", 
+                            "event_list": [], 
+                            "name": "equip_slot_2", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    245.0, 
+                                    535.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    20.48494983277592, 
+                                    71.90860215053763
+                                ]
+                            }, 
+                            "type": 20, 
+                            "uid": "771d69f0-8602-4c6a-bab8-88b6914d9950"
+                        }, 
+                        {
+                            "adapter_option": [
+                                false, 
+                                false, 
+                                false, 
+                                false, 
+                                null, 
+                                null, 
+                                null, 
+                                null
+                            ], 
+                            "children": [
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 120833, 
+                                    "name": "equip_bg_img", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            50.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            100.0, 
+                                            100.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "8533d3ef-9190-4664-926b-c946514e474d"
+                                }, 
+                                {
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 101902, 
+                                    "name": "equip_icon_img", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            50.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            100.0, 
+                                            100.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "ce31ad5e-cc62-4f92-91ff-7d5f8d3c5dd1"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false, 
+                                        null, 
+                                        null, 
+                                        null, 
+                                        null
+                                    ], 
+                                    "alignment": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            2, 
+                                            0
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "name": "equip_stack_label", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            66.0, 
+                                            18.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            66.0, 
+                                            18.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            55.462188720703125, 
+                                            24.0
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "1", 
+                                            false
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "uid": "5fbc0681-ac65-4cb3-bbe4-f2a1bb71b3c3"
+                                }, 
+                                {
+                                    "alignment": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            2, 
+                                            0
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "name": "equip_charge_label", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            66.0, 
+                                            18.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            66.0, 
+                                            18.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            55.462188720703125, 
+                                            24.0
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "1", 
+                                            false
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "uid": "b30290f7-e197-49d9-ab49-818da5984465"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "bg_color": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            255, 
+                                            255, 
+                                            255, 
+                                            0
+                                        ]
+                                    }, 
+                                    "bg_image": null, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 903687, 
+                                    "name": "equip_cd_progress", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            50.0
+                                        ]
+                                    }, 
+                                    "progress_type": 0, 
+                                    "reverse": true, 
+                                    "scale": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            1.6, 
+                                            1.6
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            62.5, 
+                                            62.5
+                                        ]
+                                    }, 
+                                    "type": 5, 
+                                    "uid": "b077c14c-7a87-4e59-8697-a2a6214a7827"
+                                }, 
+                                {
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 100427, 
+                                    "name": "equip_disabled_img", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            50.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            100.0, 
+                                            100.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "afafd596-ee6b-46df-8e32-68aeacc666db"
+                                }
+                            ], 
+                            "equip_bg_img": "8533d3ef-9190-4664-926b-c946514e474d", 
+                            "equip_cd_progress": "b077c14c-7a87-4e59-8697-a2a6214a7827", 
+                            "equip_charge_label": "b30290f7-e197-49d9-ab49-818da5984465", 
+                            "equip_disabled_img": "afafd596-ee6b-46df-8e32-68aeacc666db", 
+                            "equip_icon_img": "ce31ad5e-cc62-4f92-91ff-7d5f8d3c5dd1", 
+                            "equip_stack_label": "5fbc0681-ac65-4cb3-bbe4-f2a1bb71b3c3", 
+                            "event_list": [], 
+                            "name": "equip_slot_3", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    400.0, 
+                                    535.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    33.44481605351171, 
+                                    71.90860215053763
+                                ]
+                            }, 
+                            "type": 20, 
+                            "uid": "66b89c3f-ab8b-4750-98a0-0261be6cf196"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "image": 110090, 
+                    "name": "image_9", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            960.0, 
+                            540.0
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1196.0, 
+                            744.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "bb955383-2063-4b3c-ad85-dfb697e6262b"
+                }, 
+                {
+                    "anchor": {
+                        "__tuple__": true, 
+                        "items": [
+                            0.0, 
+                            0.0
+                        ]
+                    }, 
+                    "children": [
+                        {
+                            "children": [], 
+                            "event_list": [
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "sk1_0", 
+                                    "sound_id": null, 
+                                    "type": 2
+                                }
+                            ], 
+                            "name": "sk1", 
+                            "normal_font_color": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1, 
+                                    35, 
+                                    64, 
+                                    255
+                                ]
+                            }, 
+                            "normal_text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "SKI", 
+                                    true
+                                ]
+                            }, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    150.0, 
+                                    156.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    20.891364902506965, 
+                                    50.160771704180064
+                                ]
+                            }, 
+                            "type": 1, 
+                            "uid": "d4300696-c093-49d2-8fd8-6b929faec136"
+                        }, 
+                        {
+                            "children": [], 
+                            "event_list": [
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "sk2_0", 
+                                    "sound_id": null, 
+                                    "type": 2
+                                }
+                            ], 
+                            "name": "sk2", 
+                            "normal_font_color": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1, 
+                                    35, 
+                                    64, 
+                                    255
+                                ]
+                            }, 
+                            "normal_text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "SKII", 
+                                    false
+                                ]
+                            }, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    359.0, 
+                                    156.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.0, 
+                                    50.160771704180064
+                                ]
+                            }, 
+                            "type": 1, 
+                            "uid": "4e1a467f-f7e2-4b83-a4ad-7c756fd3c582"
+                        }, 
+                        {
+                            "children": [], 
+                            "event_list": [
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "sk3_0", 
+                                    "sound_id": null, 
+                                    "type": 2
+                                }
+                            ], 
+                            "name": "sk3", 
+                            "normal_font_color": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1, 
+                                    35, 
+                                    64, 
+                                    255
+                                ]
+                            }, 
+                            "normal_text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "SKIII", 
+                                    false
+                                ]
+                            }, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    562.0, 
+                                    156.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    78.27298050139275, 
+                                    50.160771704180064
+                                ]
+                            }, 
+                            "type": 1, 
+                            "uid": "a904f018-07ae-40b2-9280-e1df712713a3"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "image": 131071, 
+                    "name": "image_14", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            625.0, 
+                            360.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            32.55208333333333, 
+                            33.33333333333333
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            718.0, 
+                            311.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "99df24ea-0149-430c-9f50-a96897f0d7ed"
+                }
+            ], 
+            "event_list": [], 
+            "name": "layout_7", 
+            "open_adapter": true, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "cd8c5e82-508e-44b4-9453-9161c53e426b"
+        }
+    ], 
+    "name": "\u7bb1\u5b50\u754c\u9762", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "ef1292bb-a567-4963-bd2f-2bfa27caafb1", 
+    "visible": true, 
+    "zorder": 400
+}

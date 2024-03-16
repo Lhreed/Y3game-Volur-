@@ -1,0 +1,26 @@
+{
+    "trigger_dict": {}, 
+    "trigger_group_info": {
+        "_trigger_group_": true, 
+        "group": [
+            {
+                "_trigger_group_": true, 
+                "group": [
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            282832912, 
+                            "\u70bc\u91d1"
+                        ]
+                    }
+                ], 
+                "is_sub_folder": true, 
+                "key": "rVoOT42jEe649wJQsTNVnT", 
+                "name": "\u70bc\u91d1"
+            }
+        ], 
+        "is_sub_folder": true, 
+        "key": "58OIwIw5Ee6a-gJQsTNVnb", 
+        "name": "\u4e92\u52a8E"
+    }
+}

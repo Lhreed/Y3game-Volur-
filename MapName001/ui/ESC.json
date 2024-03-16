@@ -1,0 +1,300 @@
+{
+    "adapt_mode": 2, 
+    "children": [
+        {
+            "adapter_option": [
+                true, 
+                true, 
+                true, 
+                true, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "anchor": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "children": [
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "alignment": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            2, 
+                                            8
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "font_color": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            1, 
+                                            35, 
+                                            64, 
+                                            255
+                                        ]
+                                    }, 
+                                    "name": "label_6", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            100.0, 
+                                            50.0
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "\u7ee7\u7eed", 
+                                            false
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "uid": "7aa600a7-4bcb-44dd-8d82-9259ca80e6de"
+                                }
+                            ], 
+                            "event_list": [
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "esc\u7ee7\u7eed", 
+                                    "sound_id": null, 
+                                    "type": 2
+                                }
+                            ], 
+                            "name": "button_4", 
+                            "normal_picture": 108495, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    120.99996948242188, 
+                                    180.99996948242188
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    17.28570992606027, 
+                                    45.24999237060547
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    200.0, 
+                                    100.0
+                                ]
+                            }, 
+                            "type": 1, 
+                            "uid": "257bc4c9-c2cd-43d7-b8cd-7b588a87012f"
+                        }, 
+                        {
+                            "children": [
+                                {
+                                    "alignment": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            2, 
+                                            8
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "font_color": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            1, 
+                                            35, 
+                                            64, 
+                                            255
+                                        ]
+                                    }, 
+                                    "name": "label_6", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            100.0, 
+                                            50.0
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "\u8bbe\u7f6e", 
+                                            false
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "uid": "b82d3f1e-1bae-422d-ad95-e17805cc4ebe"
+                                }
+                            ], 
+                            "event_list": [
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "esc\u8bbe\u7f6e", 
+                                    "sound_id": null, 
+                                    "type": 2
+                                }
+                            ], 
+                            "name": "button_1", 
+                            "normal_picture": 108495, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    350.0, 
+                                    181.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.0, 
+                                    45.25
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    200.0, 
+                                    100.0
+                                ]
+                            }, 
+                            "type": 1, 
+                            "uid": "c97100af-e35e-47b3-8a68-d62ff3d6eb88"
+                        }, 
+                        {
+                            "children": [
+                                {
+                                    "alignment": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            2, 
+                                            8
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "font_color": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            1, 
+                                            35, 
+                                            64, 
+                                            255
+                                        ]
+                                    }, 
+                                    "name": "label_6", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            100.0, 
+                                            50.0
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "\u9000\u51fa", 
+                                            false
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "uid": "1dfb1741-2a8c-48b9-8bd2-946a11557b62"
+                                }
+                            ], 
+                            "event_list": [
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "esc\u9000\u51fa", 
+                                    "sound_id": null, 
+                                    "type": 2
+                                }
+                            ], 
+                            "name": "button_2", 
+                            "normal_picture": 108495, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    578.0, 
+                                    181.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    82.57142857142857, 
+                                    45.25
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    200.0, 
+                                    100.0
+                                ]
+                            }, 
+                            "type": 1, 
+                            "uid": "742f6719-10b7-4d33-95c9-05708c4280f6"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "image": 134008, 
+                    "name": "image_15", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            960.0, 
+                            540.0
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            700.0, 
+                            400.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "d7eee8d1-ef60-4568-af59-157e858a28ab"
+                }
+            ], 
+            "event_list": [], 
+            "name": "layout_8", 
+            "open_adapter": true, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "e50a9301-e948-4d35-8c07-616fc76178b8"
+        }
+    ], 
+    "name": "ESC", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "21eb355c-98fa-4431-8d59-d15cab6ec583", 
+    "visible": true, 
+    "zorder": 400
+}
